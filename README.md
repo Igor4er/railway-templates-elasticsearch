@@ -14,8 +14,6 @@ This is a repo achieves three things -
 
   This is needed because elasticsearch needs to write to the volume.
 
-- Add an anonymous user that is able to perform a healthcheck to make sure the service is running
-
 ## Version upgrades
 
 Before upgrading, please carefully read the upgrade manual here: https://www.elastic.co/docs/deploy-manage/upgrade/deployment-or-cluster/upgrade-717
